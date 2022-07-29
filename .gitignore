@@ -1,2 +1,5 @@
 node-rn-sns-227172ca6595.json
 .vscode
+.DS_Store
+credentials/*
+
